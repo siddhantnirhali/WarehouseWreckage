@@ -1,0 +1,8 @@
+Breadcrumbs 'RHIThread'
+Context 1/2
+	00 Scene
+	01 Scene
+	02 CopyStencilToLightingChannels
+	03 DiffuseIndirectAndAO
+	04 ShadowDepths
+	05 Atlas0 8192x2048
